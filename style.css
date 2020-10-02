@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    background-color: rgba(127, 255, 212, 0.582);
+}
+img{
+    margin-left: 40%;
+}
+p{
+    text-align: center;
+}
+.row{
+    display: flex;
+}
+.column{
+    border:2px dotted aquamarine;
+    padding: 10px;
+    margin-left:20%;
+}
+.column2{
+    margin-left:40%;
+    border: 2px dotted aquamarine;
+    padding: 10px;
+}
